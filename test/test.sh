@@ -1,0 +1,1 @@
+python ./test/test.py --root_dir '/big-data/dataset-IJCAI/image/demo' --ckpt './ckpt/mesorch_df1.pth' --output_mask_dir './submsiion/masks' --output_txt_path './submsiion/prediction.txt'
